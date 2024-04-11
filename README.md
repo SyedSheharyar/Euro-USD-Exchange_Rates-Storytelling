@@ -10,4 +10,3 @@ Throughout the Project, we focused on explanatory data visualization and learned
 * About the elements of a story and how to create storytelling data visualizations using Matplotlib.
 * How to guide the audience's attention with pre-attentive attributes.
 * How to use Matplotlib built-in styles — with a case study on the FiveThirtyEight style.
-* 
